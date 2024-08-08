@@ -21,8 +21,8 @@ Este proyecto es un web scraper desarrollado con Django Rest Framework que permi
 
 2. Crea y activa un entorno virtual:
     ```sh
-    python -m venv env
-    source env/bin/activate  # En Windows usa `env\Scripts\activate`
+    python -m venv venv
+    source venv/bin/activate  # En Windows usa `venv\Scripts\activate`
     ```
 
 
